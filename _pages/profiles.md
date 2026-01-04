@@ -14,7 +14,7 @@ profiles:
 
   - align: left
     image: prof_pic.jpg
-    content: Research Professor
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       Byul Nim Kim
