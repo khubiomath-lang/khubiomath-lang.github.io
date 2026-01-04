@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Department of Applied Mathematics in Kyung Hee University</a> Contacts : sunmilee.khu.ac.kr 
 
 profile:
   align: right
