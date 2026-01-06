@@ -24,6 +24,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 Our research group focuses on the applications of computational modeling and applied mathematical methods to the study of physical and biological questions. We employ tools of applied mathematics such as ordinary/partial differential equations and numerical methods. We also develop numerical methods for such physical and biological problems at hand.
 
 Specifically, our research focuses on these areas: mathematical modeling and numerical simulations of epidemiological systems with an emphasis on the use of optimal control theory, and computational stochastic modeling using agent-based models and network models in infectious disease transmission dynamics.
