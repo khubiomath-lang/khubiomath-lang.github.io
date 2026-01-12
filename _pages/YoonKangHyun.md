@@ -1,7 +1,7 @@
 Yoon Kang Hyun<br>
 Master course<br>
 Research interest
-  1. Mathematical modeling of epidemiology
-  2. Deep learning
-  3. Network science
-  4. Outgroup Aversion
+&nbsp;1. Mathematical modeling of epidemiology
+&nbsp;2. Deep learning
+&nbsp;3. Network science
+&nbsp;4. Outgroup Aversion
