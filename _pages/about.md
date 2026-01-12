@@ -6,7 +6,7 @@ subtitle: <a href='https://math.khu.ac.kr/math/user/main/view.do'>Department of 
 
 profile:
   align: right
-  image: prof_pic.png
+  image: lab_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Kyung Hee University Global Campus, Yongin, Gihung-gu</p>
