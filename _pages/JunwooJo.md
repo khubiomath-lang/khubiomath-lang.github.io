@@ -1,6 +1,6 @@
 Jo Junwoo<br>
 Master course<br>
 Research interest
-  1. Mathematical modeling of epidemiology
-  2. Network sceince
-  3. Graph Nueral Network
+&nbsp;1. Mathematical modeling of epidemiology
+&nbsp;2. Network sceince
+&nbsp;3. Graph Nueral Network
