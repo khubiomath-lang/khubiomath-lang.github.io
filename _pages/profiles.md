@@ -43,7 +43,7 @@ profiles:
   
 
   - align: left
-    image: prof_pic.jpg
+    image: SeoHaram.jpg
     content: SeoHaram.md
     image_circular: false # crops the image to make it circular
     more_info: >
