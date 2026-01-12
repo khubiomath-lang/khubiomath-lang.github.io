@@ -1,5 +1,5 @@
-Yoon Kang Hyun
-Master course
+Yoon Kang Hyun<br>
+Master course<br>
 Research interest
 1. Mathematical modeling of epidemiology
 2. Deep learning
