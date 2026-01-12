@@ -20,55 +20,49 @@ profiles:
 
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: KimYoung.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Email: zerokim722@gmail.com</p>
+
 
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: LeeHyosun.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Email: lhs070205@khu.ac.kr</p>
+  
 
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: SeoHaram.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Email: anakln@naver.com</p>
+
 
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: YoonKangHyun.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Email: duji0920@khu.ac.kr</p>
+     
 
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: ChoiMinchan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Email: choi7186@khu.ac.kr</p>
+     
 
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: JunwooJo.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Email: whwnsdn95@naver.com</p>
+      
 ---
