@@ -1,7 +1,4 @@
-Kim Byul Nim
-
-Research Professor
-
-Research intereset
-
+Kim Byul Nim<br>
+Research Professor<br>
+Research intereset<br>
 1. Mathemtical modeling of epidemiology
