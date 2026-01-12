@@ -9,14 +9,13 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  
+
   - align: left
     image: prof_pic.jpg
     content: LeeSunmi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Email: sunmilee@khu.ac.kr</p>
-  
 
   - align: left
     image: prof_pic.jpg
@@ -24,7 +23,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Email: air1227@gmail.com</p>
-      
 
   - align: left
     image: prof_pic.jpg
@@ -33,14 +31,12 @@ profiles:
     more_info: >
       <p>Email: zerokim722@gmail.com</p>
 
-
   - align: left
     image: prof_pic.jpg
     content: LeeHyosun.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Email: lhs070205@khu.ac.kr</p>
-  
 
   - align: left
     image: SeoHaram.jpg
@@ -49,14 +45,12 @@ profiles:
     more_info: >
       <p>Email: anakln@naver.com</p>
 
-
   - align: left
     image: prof_pic.jpg
     content: YoonKangHyun.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Email: duji0920@khu.ac.kr</p>
-     
 
   - align: left
     image: prof_pic.jpg
@@ -64,7 +58,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Email: choi7186@khu.ac.kr</p>
-     
 
   - align: left
     image: prof_pic.jpg
@@ -72,5 +65,4 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Email: whwnsdn95@naver.com</p>
-      
 ---
