@@ -1,4 +1,4 @@
-Kim Byul Nim<br>
+Byul Nim Kim<br>
 Research Professor<br>
 Research intereset
 
