@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "Research",
-          description: "",
+          description: "Research interests, methods, and selected outputs.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -461,11 +461,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-ili-forecasting-with-hybrid-ensembles",
-          title: 'ILI Forecasting with Hybrid Ensembles',
+            },},{id: "projects-time-series-forecasting",
+          title: 'Time Series Forecasting',
           description: "Probabilistic multi-horizon forecasting by combining mechanistic models and deep learning.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ABM/";
+              window.location.href = "/projects/forecasting/";
             },},{
         id: 'social-cv',
         title: 'CV',
