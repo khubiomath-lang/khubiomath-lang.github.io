@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 nav: true
 nav_order: 2
 description: Research interests, methods, and selected outputs.
 ---
 
-## Research areas
+## research areas
 
 <div class="row mt-4">
   <div class="col-sm-4">
-    <img class="img-fluid rounded z-depth-1" src="assets/img/1.jpg" alt="Time-series forecasting">
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="Time-series forecasting">
   </div>
   <div class="col-sm-8">
     <h3 class="mt-0">Time-series forecasting</h3>
