@@ -31,7 +31,7 @@ description: Research interests, methods, and selected outputs.
 
 <div class="row mt-4">
   <div class="col-sm-4">
-    <img class="img-fluid rounded z-depth-1" src="assets/img/1.jpg" alt="Network analysis">
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="Network analysis">
   </div>
   <div class="col-sm-8">
     <h3 class="mt-0">Network data analysis</h3>
@@ -51,7 +51,7 @@ description: Research interests, methods, and selected outputs.
 
 <div class="row mt-4">
   <div class="col-sm-4">
-    <img class="img-fluid rounded z-depth-1" src="assets/img/1.jpg" alt="Agent-based modeling">
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="Agent-based modeling">
   </div>
   <div class="col-sm-8">
     <h3 class="mt-0">Simulation &amp; agent-based modeling</h3>
