@@ -1,4 +1,4 @@
-Seo Haram<br>
+Haram Seo<br>
 Doctor course<br>
 Research interest
 
