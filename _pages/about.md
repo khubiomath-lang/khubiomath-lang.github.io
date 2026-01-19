@@ -29,11 +29,7 @@ Our research group focuses on the applications of computational modeling and app
 
 Specifically, our research focuses on these areas: mathematical modeling and numerical simulations of epidemiological systems with an emphasis on the use of optimal control theory, and computational stochastic modeling using agent-based models and network models in infectious disease transmission dynamics.
 
-<style>
-  .profile-img img {
-    transform: rotate(180deg) !important;
-  }
-</style>
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
