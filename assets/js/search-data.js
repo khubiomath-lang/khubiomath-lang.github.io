@@ -461,6 +461,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-ili-forecasting-with-hybrid-ensembles",
+          title: 'ILI Forecasting with Hybrid Ensembles',
+          description: "Probabilistic multi-horizon forecasting by combining mechanistic models and deep learning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ABM/";
             },},{
         id: 'social-cv',
         title: 'CV',
