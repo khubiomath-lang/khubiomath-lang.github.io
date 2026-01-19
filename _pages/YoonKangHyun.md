@@ -1,4 +1,4 @@
-Yoon Kang Hyun<br>
+Kang Hyun Yoon<br>
 Master course<br>
 Research interest
 
