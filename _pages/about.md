@@ -29,7 +29,7 @@ Our research group focuses on the applications of computational modeling and app
 
 Specifically, our research focuses on these areas: mathematical modeling and numerical simulations of epidemiological systems with an emphasis on the use of optimal control theory, and computational stochastic modeling using agent-based models and network models in infectious disease transmission dynamics.
 
-##selected researches
+## selected researches
 
 
 
