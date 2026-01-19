@@ -1,0 +1,10 @@
+{% assign cat = include.category %}
+{% assign projects = site.projects | where: "category", cat | sort: "importance" %}
+
+<div class="row">
+  {% for project in projects %}
+    <div class="col-sm-6 mb-4">
+      {% include project_card.html project=project %}
+    </div>
+  {% endfor %}
+</div>
