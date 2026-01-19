@@ -1,4 +1,4 @@
-Choi Minchan<br>
+Minchan Choi<br>
 Master course<br>
 Research interest
 
