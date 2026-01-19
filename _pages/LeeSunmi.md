@@ -1,2 +1,2 @@
-Lee Sunmi<br>
+Sunmi Lee<br>
 Professor in KyungHee University
