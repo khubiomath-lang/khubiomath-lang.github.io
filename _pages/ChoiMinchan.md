@@ -2,5 +2,6 @@ Choi Minchan<br>
 Master course<br>
 Research interest
 
-   Mathmatical modeling of epidemiology<br>
-   Reinforcement learning
+   infectious disease<br>
+   mathematical modeling<br>
+   reservoir computing
