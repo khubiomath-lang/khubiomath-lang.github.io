@@ -5,4 +5,4 @@ Research interest
    Time series forecasting<br>
    Network data analysis<br>
    Infectious disease<br>
-   modeling and inference for complex, data-driven systems
+   Modeling and inference for complex, data-driven systems
