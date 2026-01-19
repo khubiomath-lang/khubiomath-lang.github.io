@@ -461,11 +461,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-time-series-forecasting",
-          title: 'Time Series Forecasting',
-          description: "Probabilistic multi-horizon forecasting by combining mechanistic models and deep learning.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/forecasting/";
             },},{
         id: 'social-cv',
         title: 'CV',
