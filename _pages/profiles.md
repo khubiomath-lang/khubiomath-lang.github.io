@@ -13,7 +13,7 @@ profiles:
   - align: left
     image: prof_pic.png
     content: LeeSunmi.md
-    image_circular: true # crops the image to make it circular
+    image_circular: False # crops the image to make it circular
     more_info: >
       <p>Email: sunmilee@khu.ac.kr</p>
 
