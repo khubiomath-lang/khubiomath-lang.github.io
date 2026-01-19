@@ -1,4 +1,4 @@
-Jo Junwoo<br>
+Junwoo Jo<br>
 Master course<br>
 Research interest
 
