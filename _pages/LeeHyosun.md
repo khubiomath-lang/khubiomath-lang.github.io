@@ -1,4 +1,4 @@
-Lee Hyosun<br>
+Hyosun Lee<br>
 Doctor course<br>
 Research interest<br>
 
