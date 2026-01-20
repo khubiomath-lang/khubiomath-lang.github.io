@@ -2,7 +2,7 @@
 layout: page
 title: activities
 permalink: /activities/
-description: My academic and professional activities.
+description: Activities for our lab.
 nav: true
 nav_order: 3
 ---
