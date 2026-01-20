@@ -4,6 +4,14 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
+<style>
+  .profile img {
+    height: 250px !important; /* 원하는 높이(px)로 수정하세요 */
+    width: 100%;
+    object-fit: cover;        /* 사진 비율 유지하며 꽉 채우기 */
+    object-position: center;  /* 중앙 정렬 */
+  }
+</style>
       {% for profile in page.profiles %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
