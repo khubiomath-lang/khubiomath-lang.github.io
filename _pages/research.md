@@ -66,3 +66,43 @@ description: Research interests, methods, and selected outputs.
     </ul>
   </div>
 </div>
+
+<hr>
+
+<div class="row mt-4">
+  <div class="col-sm-4">
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="Multi-patch modeling">
+  </div>
+  <div class="col-sm-8">
+    <h3 class="mt-0">Multi-patch &amp; Metapopulation Modeling</h3>
+    <p>
+      I develop spatially explicit models to capture disease dynamics across connected subpopulations,
+      focusing on the role of human mobility and regional heterogeneity.
+    </p>
+    <ul>
+      <li><b>What I study:</b> spatial spread, importation risks, and synchronization between regions.</li>
+      <li><b>Methods:</b> metapopulation SEIR equations, gravity/radiation mobility models, OD matrix calibration.</li>
+      <li><b>Outputs:</b> spatial risk maps, mobility restriction impact analysis, regional forecasts.</li>
+    </ul>
+  </div>
+</div>
+
+<hr>
+
+<div class="row mt-4">
+  <div class="col-sm-4">
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="Reinforcement Learning">
+  </div>
+  <div class="col-sm-8">
+    <h3 class="mt-0">Reinforcement Learning for Public Health</h3>
+    <p>
+      I leverage deep reinforcement learning to identify optimal control strategies (e.g., social distancing, vaccination)
+      within stochastic epidemic environments.
+    </p>
+    <ul>
+      <li><b>What I study:</b> adaptive intervention policies, multi-objective optimization (health vs. cost).</li>
+      <li><b>Methods:</b> Markov Decision Processes (MDP), PPO/DQN algorithms, simulation-based training.</li>
+      <li><b>Outputs:</b> optimal policy schedules, Pareto frontier analysis, AI-driven decision support.</li>
+    </ul>
+  </div>
+</div>
