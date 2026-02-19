@@ -9,7 +9,7 @@ description: Research interests, methods, and selected outputs.
 
 ## research areas
 
-<div class="row mt-4">
+<!--<div class="row mt-4">
   <div class="col-sm-4">
     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="Time-series forecasting">
   </div>
@@ -35,7 +35,7 @@ description: Research interests, methods, and selected outputs.
   </div>
 </div>
 
-<hr>
+<hr>-->
 
 <div class="row mt-4">
   <div class="col-sm-4">
