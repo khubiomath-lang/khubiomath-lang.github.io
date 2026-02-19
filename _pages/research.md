@@ -16,14 +16,8 @@ description: Research interests, methods, and selected outputs.
   <div class="col-sm-8">
     <h3 class="mt-0">Time-series forecasting</h3>
     <p>
-      I build probabilistic forecasting models for infectious disease incidence, focusing on
-      robust performance under reporting noise and regime changes.
+      We build deep learning based forecasting models for infectious disease incidence, focusing on ensuring robust performance despite reporting noise and regime changes.
     </p>
-    <ul>
-      <li><b>What I study:</b> multi-horizon forecasts, uncertainty quantification, and evaluation.</li>
-      <li><b>Methods:</b> ensemble learning, mechanistic + deep learning hybrids, proper scoring rules (e.g., WIS).</li>
-      <li><b>Outputs:</b> forecast dashboards, comparative evaluation across waves and age groups.</li>
-    </ul>
   </div>
 </div>
 
@@ -36,14 +30,8 @@ description: Research interests, methods, and selected outputs.
   <div class="col-sm-8">
     <h3 class="mt-0">Network data analysis</h3>
     <p>
-      I analyze infection/contact networks to characterize heterogeneity such as super-spreading events (SSEs)
-      and age-specific mixing patterns.
+      We analyze infection networks to characterize epidemiological heterogeneities, such as super-spreading events (SSEs) and age-specific mixing patterns. Using network statistics and ERGM-style frameworks, this work explores transmission clusters, centrality, and temporal network dynamics. These analyses generate cluster summaries and stratified risk profiles, which serve as critical, network-informed inputs for broader epidemiological modeling.
     </p>
-    <ul>
-      <li><b>What I study:</b> transmission clusters, centrality/bridging roles, and temporal network dynamics.</li>
-      <li><b>Methods:</b> network statistics, ERGM-style thinking, attribute-aware visualization.</li>
-      <li><b>Outputs:</b> cluster summaries, stratified risk profiles, network-informed model inputs.</li>
-    </ul>
   </div>
 </div>
 
@@ -54,16 +42,10 @@ description: Research interests, methods, and selected outputs.
     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="Agent-based modeling">
   </div>
   <div class="col-sm-8">
-    <h3 class="mt-0">Simulation &amp; agent-based modeling</h3>
+    <h3 class="mt-0">Simulation &amp; Agent-based modeling</h3>
     <p>
-      I develop agent-based models to test intervention strategies under realistic heterogeneity,
-      including age structure, contact patterns, and behavioral responses.
+      We develop agent-based models (ABMs) to test intervention strategies under realistic conditions, accounting for heterogeneity in age structure, contact patterns, and behavioral responses. Through sensitivity analysis and optimization-ready simulators, we investigate vaccine and booster allocation, timing policies, and various scenario analyses. This research produces uncertainty-aware policy recommendations and reproducible pipelines for decision support.
     </p>
-    <ul>
-      <li><b>What I study:</b> vaccine/booster allocation, timing policies, scenario analysis.</li>
-      <li><b>Methods:</b> ABM (e.g., Covasim-style), sensitivity analysis, optimization-ready simulators.</li>
-      <li><b>Outputs:</b> policy comparisons, uncertainty-aware recommendations, reproducible pipelines.</li>
-    </ul>
   </div>
 </div>
 
@@ -76,14 +58,8 @@ description: Research interests, methods, and selected outputs.
   <div class="col-sm-8">
     <h3 class="mt-0">Multi-patch &amp; Metapopulation Modeling</h3>
     <p>
-      I develop spatially explicit models to capture disease dynamics across connected subpopulations,
-      focusing on the role of human mobility and regional heterogeneity.
+      We develop spatially explicit models to capture disease dynamics across connected subpopulations, focusing on the role of human mobility and regional heterogeneity. By combining metapopulation equations with real mobility data, we study spatial spread, importation risks between regions. The outcomes include spatial risk index, impact analyses of mobility restrictions, and regional forecasts.
     </p>
-    <ul>
-      <li><b>What I study:</b> spatial spread, importation risks, and synchronization between regions.</li>
-      <li><b>Methods:</b> metapopulation SEIR equations, gravity/radiation mobility models, OD matrix calibration.</li>
-      <li><b>Outputs:</b> spatial risk maps, mobility restriction impact analysis, regional forecasts.</li>
-    </ul>
   </div>
 </div>
 
@@ -96,13 +72,21 @@ description: Research interests, methods, and selected outputs.
   <div class="col-sm-8">
     <h3 class="mt-0">Reinforcement Learning for Public Health</h3>
     <p>
-      I leverage deep reinforcement learning to identify optimal control strategies (e.g., social distancing, vaccination)
-      within stochastic epidemic environments.
+      We leverage deep reinforcement learning to identify optimal control strategies, such as social distancing and vaccination, within stochastic epidemic environments. Utilizing Markov Decision Processes (MDP) and algorithms like PPO or DQN, this research focuses on adaptive intervention policies and multi-objective optimization (balancing health outcomes vs. cost). The results provide optimal policy schedules and Pareto frontier analyses for AI-driven decision support.
     </p>
-    <ul>
-      <li><b>What I study:</b> adaptive intervention policies, multi-objective optimization (health vs. cost).</li>
-      <li><b>Methods:</b> Markov Decision Processes (MDP), PPO/DQN algorithms, simulation-based training.</li>
-      <li><b>Outputs:</b> optimal policy schedules, Pareto frontier analysis, AI-driven decision support.</li>
-    </ul>
+  </div>
+</div>
+
+<hr>
+
+<div class="row mt-4">
+  <div class="col-sm-4">
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="Rt Estimation">
+  </div>
+  <div class="col-sm-8">
+    <h3 class="mt-0">Reproduction Number Estimation</h3>
+    <p>
+      We utilize probabilistic frameworks to infer the time-varying effective reproduction number ($R_t$) from incidence data, trying to reflect the heterogeneous mixing. We evaluate real-time transmissibility trends, NPI effectiveness, and epidemic turning points. 
+    </p>
   </div>
 </div>
