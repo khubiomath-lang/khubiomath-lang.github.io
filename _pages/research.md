@@ -44,7 +44,7 @@ description: Research interests, methods, and selected outputs.
   <div class="col-sm-8">
     <h3 class="mt-0">Simulation &amp; Agent-based modeling</h3>
     <p>
-      We develop agent-based models (ABMs) to test intervention strategies under realistic conditions, accounting for heterogeneity in age structure, contact patterns, and behavioral responses. Through sensitivity analysis and optimization-ready simulators, we investigate vaccine and booster allocation, timing policies, and various scenario analyses. This research produces uncertainty-aware policy recommendations and reproducible pipelines for decision support.
+      We develop agent-based models (ABMs) to test intervention strategies under realistic conditions, accounting for heterogeneity in age structure, contact patterns, and behavioral responses. This research produces uncertainty-aware policy recommendations.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ description: Research interests, methods, and selected outputs.
   <div class="col-sm-8">
     <h3 class="mt-0">Reproduction Number Estimation</h3>
     <p>
-      We utilize probabilistic frameworks to infer the time-varying effective reproduction number ($R_t$) from incidence data, trying to reflect the heterogeneous mixing. We evaluate real-time transmissibility trends, NPI effectiveness, and epidemic turning points. 
+      We utilize probabilistic frameworks to infer the time-varying effective reproduction number ($R_t$). We especially focus on the reproduction number refelcting heterogeneous mixing by infection network or mobility data. 
     </p>
   </div>
 </div>
