@@ -11,7 +11,7 @@ nav_order: 3
 
 <table>
   <tr>
-    <td><img src="/assets/img/activities/1.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/1.jpeg" width="200" height="150"></td>
     <td><img src="/assets/img/activities/2.jpg" width="200" height="150"></td>
     <td><img src="/assets/img/activities/3.jpg" width="200" height="150"></td>
     <td><img src="/assets/img/activities/4.jpg" width="200" height="150"></td>
