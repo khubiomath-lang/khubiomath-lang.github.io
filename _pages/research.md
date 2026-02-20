@@ -70,7 +70,7 @@ description: Research interests, methods, and selected outputs.
     <img class="rounded z-depth-1" src="{{ '/assets/img/odeRL.png' | relative_url }}" alt="Reinforcement Learning" width="300px" height="200px">
   </div>
   <div class="col-sm-8">
-    <h3 class="mt-0">Reinforcement Learning for Public Health</h3>
+    <h3 class="mt-0">Reinforcement Learning</h3>
     <p>
       We leverage deep reinforcement learning to identify optimal control strategies, such as social distancing and vaccination, within stochastic epidemic environments. Utilizing Markov Decision Processes (MDP) and algorithms like PPO or DQN, this research focuses on adaptive intervention policies and multi-objective optimization (balancing health outcomes vs. cost). The results provide optimal policy schedules and Pareto frontier analyses for AI-driven decision support.
     </p>
