@@ -86,7 +86,7 @@ description: Research interests, methods, and selected outputs.
   <div class="col-sm-8">
     <h3 class="mt-0">Reproduction Number Estimation</h3>
     <p>
-      We utilize probabilistic frameworks to infer the time-varying effective reproduction number ($R_t$). We especially focus on the reproduction number refelcting heterogeneous mixing by infection network or mobility data. 
+      We utilize probabilistic frameworks to infer the time-varying effective reproduction number ($R_t$). We especially focus on the reproduction number refelcting heterogeneous mixing by infection network or mobility data. We also evaluate real-time transmissibility trends, NPI effectiveness, and superspreading events.
     </p>
   </div>
 </div>
