@@ -9,11 +9,35 @@ nav_order: 3
 
 ## activities
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="설명1" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2.jpg" title="설명2" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<table>
+  <tr>
+    <td><img src="/assets/img/activities/1.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/2.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/3.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/4.jpg" width="200" height="150"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/activities/5.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/6.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/7.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/8.jpg" width="200" height="150"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/activities/9.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/10.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/11.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/12.jpg" width="200" height="150"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/activities/13.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/14.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/15.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/16.jpg" width="200" height="150"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/activities/17.jpg" width="200" height="150"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
