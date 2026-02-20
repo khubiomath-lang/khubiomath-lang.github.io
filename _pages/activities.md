@@ -34,10 +34,5 @@ nav_order: 3
     <td><img src="/assets/img/activities/15.jpg" width="200" height="150"></td>
     <td><img src="/assets/img/activities/16.jpg" width="200" height="150"></td>
   </tr>
-  <tr>
-    <td><img src="/assets/img/activities/17.jpg" width="200" height="150"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+
 </table>
