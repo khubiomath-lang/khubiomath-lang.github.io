@@ -67,7 +67,7 @@ description: Research interests, methods, and selected outputs.
 
 <div class="row mt-4">
   <div class="col-sm-4">
-    <img class="rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="Reinforcement Learning" width="300px" height="200px">
+    <img class="rounded z-depth-1" src="{{ '/assets/img/odeRL.png' | relative_url }}" alt="Reinforcement Learning" width="300px" height="200px">
   </div>
   <div class="col-sm-8">
     <h3 class="mt-0">Reinforcement Learning for Public Health</h3>
