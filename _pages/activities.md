@@ -3,7 +3,7 @@ layout: page
 title: activities
 permalink: /activities/
 description: Activities for our lab.
-nav: true
+nav: false
 nav_order: 3
 dropdown: true
 children:
