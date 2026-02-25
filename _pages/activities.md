@@ -7,7 +7,7 @@ nav: false
 nav_order: 3
 dropdown: true
 children:
-  - title: until 2025
+  - title: Until 2025
     permalink: /page1/
   - title: divider
   - title: 2026
