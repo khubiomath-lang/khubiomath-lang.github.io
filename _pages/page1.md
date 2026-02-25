@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Until 2025
 permalink: /page1/
 nav: false
 ---
