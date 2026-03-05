@@ -19,10 +19,10 @@ nav: false
     <td><img src="/assets/img/activities/19.jpg" width="200" height="150"></td>
     <td><img src="/assets/img/activities/20.jpg" width="200" height="150"></td>
     <td><img src="/assets/img/activities/6.jpg" width="200" height="150"></td>
-    <td><img src="/assets/img/activities/7.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/2.jpg" width="200" height="150"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/activities/2.jpg" width="200" height="150"></td>
+    <td><img src="/assets/img/activities/7.jpg" width="200" height="150"></td>
     <td><img src="/assets/img/activities/9.jpg" width="200" height="150"></td>
     <td><img src="/assets/img/activities/10.jpg" width="200" height="150"></td>
     <td><img src="/assets/img/activities/11.jpg" width="200" height="150"></td>
